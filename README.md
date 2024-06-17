@@ -61,7 +61,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abeners2&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abeners2&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abeners2&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <br/>
