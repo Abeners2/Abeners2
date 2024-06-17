@@ -42,6 +42,13 @@
 <hr/>
 
 <div align="center">
+  <h2>🐍 Minhas contribuições
+ 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abeners2/Abeners2/output/github-contribution-grid-snake.svg" />
+
+
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abeners2/Abeners2/output/github-contribution-grid-snake.svg" />
