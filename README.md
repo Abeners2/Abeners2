@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Olá!+👋;+Bonjour!+👋;+Hola!+👋;+Hallo!+👋;+Ciao!+👋;+こんにちは!+👋;+Привет!+👋;+안녕하세요!+👋;+नमस्ते!+👋;+你好!+👋;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
-
 <h3 align="center">Um apaixonado desenvolvedor de software do Brasil 🇧🇷</h3>
+
+<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
 
 <br/>
 
