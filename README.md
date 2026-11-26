@@ -20,10 +20,11 @@ I work in 100% remote IT support and infrastructure environments, handling L1/L2
 
 ### Featured Infrastructure & Cloud Work
 
+- **[SysAdmin Pet — Lightweight OCI Linux Telemetry Agent & NOC HUD](https://github.com/Abeners2/sysadmin-pet)** *(Solo Project · Production on 1 GB OCI Micro VM)*
+  Hardened Linux telemetry agent (`Gunicorn` + `psutil` + non-root `systemd` + `Nginx` reverse proxy + Prometheus `/metrics` exporter) engineered for a 1 GB RAM OCI Micro VM, feeding a real-time Amazfit T-Rex 3 NOC HUD and optional remote Prometheus/Grafana stack.
 - **[NovaMente — Cloud Infrastructure, IaC & CI/CD](https://github.com/No-Country-simulation/g10_brasil_equipe6_novamente)** *(Team Project · 60+ commits & 8 PR reviews)*
   Provisioned and deployed a multi-service application on **Oracle Cloud Infrastructure (OCI Compute VM & Object Storage)** using **Terraform**, **Docker**, **Let's Encrypt HTTPS**, and **GitHub Actions** CI/CD pipelines.
-- **Upcoming Labs (In Progress):**
-  - `linux-noc-observability-stack` — Dockerized Nginx + Prometheus + Node/Blackbox Exporter + Grafana + Bash diagnostic & RCA runbooks.
+- **Upcoming Lab (In Progress):**
   - `aws-iac-vpc-webserver-lab` — AWS VPC, Subnets, Security Groups, EC2, S3, and CloudWatch provisioned via Terraform + GitHub Actions.
 
 ---
