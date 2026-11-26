@@ -1,51 +1,42 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Olá!+👋;+Bonjour!+👋;+Hola!+👋;+Hallo!+👋;+Ciao!+👋;+こんにちは!+👋;+Привет!+👋;+안녕하세요!+👋;+नमस्ते!+👋;+你好!+👋;" />
-</h1>
+# Hi, I'm Abner Nogueira 👋
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+**Cloud & Infrastructure Support Analyst (L2) | Linux · Networking (TCP/IP, DNS) · OCI / AWS · Terraform · Docker**
 
-<br/>
+I work in 100% remote IT support and infrastructure environments, handling L1/L2 troubleshooting across Windows/Linux systems, corporate networks (TCP/IP, LAN/WLAN, firewalls), SQL diagnostics, and SLA-driven incident management (ITSM / RCA). Alongside daily operations, I build reproducible cloud infrastructure with **Terraform**, **Docker**, and **GitHub Actions**.
 
-<div align="center"> 
-  <a href="mailto:abnerlucassantoss2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+---
 
-  <a href="https://www.linkedin.com/in/abner-nogueira-8581b8314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### Core Technical Stack
 
-  <a href="https://github.com/Abeners2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Operating Systems & Scripting** | Linux (Ubuntu/RHEL, `systemd`, `SSH`, logs, permissions), Windows, Bash/Shell, Python |
+| **Cloud & IaC** | Oracle Cloud Infrastructure (OCI — Certified), Terraform, AWS *(in progress)* |
+| **Containers & CI/CD** | Docker, Docker Compose, Git, GitHub Actions, HTTPS / SSL-TLS (Let's Encrypt) |
+| **Networking & Security** | TCP/IP, DNS, DHCP, HTTP/HTTPS, LAN/WLAN, Firewall & Endpoint Security |
+| **Databases & Operations** | SQL (MySQL / PostgreSQL diagnostic queries), ITSM, SLA Governance, Root Cause Analysis (RCA) |
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,mysql,flask" />
-</div>
+### Featured Infrastructure & Cloud Work
 
-<hr/>
+- **[NovaMente — Cloud Infrastructure, IaC & CI/CD](https://github.com/No-Country-simulation/g10_brasil_equipe6_novamente)** *(Team Project · 60+ commits & 8 PR reviews)*
+  Provisioned and deployed a multi-service application on **Oracle Cloud Infrastructure (OCI Compute VM & Object Storage)** using **Terraform**, **Docker**, **Let's Encrypt HTTPS**, and **GitHub Actions** CI/CD pipelines.
+- **Upcoming Labs (In Progress):**
+  - `linux-noc-observability-stack` — Dockerized Nginx + Prometheus + Node/Blackbox Exporter + Grafana + Bash diagnostic & RCA runbooks.
+  - `aws-iac-vpc-webserver-lab` — AWS VPC, Subnets, Security Groups, EC2, S3, and CloudWatch provisioned via Terraform + GitHub Actions.
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abeners2/Abeners2/output/github-contribution-grid-snake.svg" />
+---
 
-<hr/>
+### Certifications & Education
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abeners2&theme=transparent" alt="GitHub Streak" /></a>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abeners2&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abeners2&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+- **Oracle Cloud Infrastructure AI Foundations Associate (1Z0-1122-26)** — *Oracle (2026–2028)*
+- **B.S. in Information Systems** — *Universidade Anhanguera Educacional (Expected 2027)*
 
-<hr/>
+---
 
+### Connect
 
+- **LinkedIn:** [linkedin.com/in/abner-nogueira-8581b8314](https://www.linkedin.com/in/abner-nogueira-8581b8314/)
+- **Email:** abnerlucassantoss2@gmail.com
+- **Location:** Brazil (UTC-3 · Open to Remote BR & LATAM/Global roles)
