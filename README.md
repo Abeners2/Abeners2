@@ -24,8 +24,8 @@ I work in 100% remote IT support and infrastructure environments, handling L1/L2
   Hardened Linux telemetry agent (`Gunicorn` + `psutil` + non-root `systemd` + `Nginx` reverse proxy + Prometheus `/metrics` exporter) engineered for a 1 GB RAM OCI Micro VM, feeding a real-time Amazfit T-Rex 3 NOC HUD and optional remote Prometheus/Grafana stack.
 - **[NovaMente — Cloud Infrastructure, IaC & CI/CD](https://github.com/No-Country-simulation/g10_brasil_equipe6_novamente)** *(Team Project · 60+ commits & 8 PR reviews)*
   Provisioned and deployed a multi-service application on **Oracle Cloud Infrastructure (OCI Compute VM & Object Storage)** using **Terraform**, **Docker**, **Let's Encrypt HTTPS**, and **GitHub Actions** CI/CD pipelines.
-- **Upcoming Lab (In Progress):**
-  - `aws-iac-vpc-webserver-lab` — AWS VPC, Subnets, Security Groups, EC2, S3, and CloudWatch provisioned via Terraform + GitHub Actions.
+- **[AWS IaC VPC & Hardened Webserver Lab](https://github.com/Abeners2/aws-iac-vpc-webserver-lab)** *(Terraform + GitHub Actions CI)*
+  Segmented AWS VPC (Public/Private Subnets, IGW, Route Table, Restrictive SG), hardened Amazon Linux 2023 EC2 (`IMDSv2`, encrypted `gp3` EBS, Nginx `/healthz`), least-privilege IAM Role (`SSM` + `CloudWatch` + scoped S3), encrypted S3 logs bucket with 30-day lifecycle, automated `terraform validate` + Trivy IaC CI, and a Cloud Support RCA playbook.
 
 ---
 
